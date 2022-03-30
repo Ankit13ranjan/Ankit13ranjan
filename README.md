@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit13ranjan&label=Profile%20views&color=0e75b6&style=flat" alt="ankit13ranjan" /> </p>
 
-- 🔭 I’m currently working on **Happy Places App**
+- 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Androiod**
+- 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ankit13ranjan](https://github.com/Ankit13ranjan)
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Web,Android**
 
 - 📫 How to reach me **ranjanankit1313@gmail.com**
 
