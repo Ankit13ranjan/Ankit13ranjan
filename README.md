@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ankit Ranjan</h1>
 <h3 align="center">Adding Bit by Bit</h3>
 
+
+
+<div>
+  <img src="https://user-images.githubusercontent.com/55665927/188931620-33e184d6-4bb1-4d9e-ae01-71c6e5b3f0c4.png" alt="Ankit" />
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit13ranjan&label=Profile%20views&color=0e75b6&style=flat" alt="ankit13ranjan" /> </p>
 
 - 🔭 I’m currently working on **Web Development**
