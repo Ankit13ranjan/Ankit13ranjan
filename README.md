@@ -3,7 +3,7 @@
 
 
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div align="center">
   <img src="https://user-images.githubusercontent.com/55665927/188931620-33e184d6-4bb1-4d9e-ae01-71c6e5b3f0c4.png" alt="Ankit" />
 </div>
 
